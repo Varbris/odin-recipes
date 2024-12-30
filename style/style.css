@@ -1,0 +1,23 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+ul li a {
+  text-decoration: none;
+  font-weight: 500;
+}
+
+h2 {
+  text-align: center;
+}
+.center-paragraph {
+  text-align: center;
+}
+.container {
+  background-color: rgba(158, 247, 247, 0.24);
+  text-align: left;
+}
+
+strong {
+  color: red;
+}
